@@ -1,3 +1,5 @@
+package ders6
+
 fun main() {
     val sinavNotu = 85
 

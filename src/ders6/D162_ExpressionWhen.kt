@@ -1,4 +1,4 @@
-
+package ders6
 fun main() {
     val biletSinifi = 'B'
     val sinifAciklamasi = when (biletSinifi) {

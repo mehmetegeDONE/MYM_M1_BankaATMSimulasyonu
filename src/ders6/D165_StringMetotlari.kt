@@ -1,3 +1,5 @@
+package ders6
+
 fun main() {
     val hamGirdi = "meRhAba kOTlİN"
     val temizGirdi = hamGirdi.trim().lowercase()

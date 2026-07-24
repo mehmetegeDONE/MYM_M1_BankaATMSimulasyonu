@@ -1,3 +1,5 @@
+package ders6
+
 fun main() {
     val gizemliObje : Any = "Merhaba Kotlin" // Herhangi bir tip olabilir.
 
